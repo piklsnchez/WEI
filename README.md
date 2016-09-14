@@ -12,8 +12,7 @@ POC
 
 ## Installation
 
-mvn clean install
-java -cp target/lib/*:target/microservices-1.0-SNAPSHOT.jar com.swgas.rest.Main
+mvn clean install && java -cp target/lib/*:target/microservices-1.0-SNAPSHOT.jar com.swgas.rest.Main
 
 ## API Reference
 
