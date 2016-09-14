@@ -1,0 +1,6 @@
+com/swgas/rest/Sessions.class
+com/swgas/rest/Users.class
+com/swgas/rest/Main.class
+com/swgas/rest/filter/CorsFilter.class
+com/swgas/rest/PlanningDates.class
+com/swgas/rest/dao/Dao.class
